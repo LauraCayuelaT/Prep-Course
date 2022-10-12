@@ -1,0 +1,5 @@
+Variable: la forma en que guardamos un valor para poder usarlo después. Que se pueda recuperar de alguna manera
+Strings: Son cadenas de texto que siempre encerraremos con comillas, ya sea sencilla o doble.
+Funciones: Son operaciones que se hacen con las variables. Los argumentos que le añadimos a la función, son los valores que queremos que nos regrese la función. Al usar return, estamos indicando qué queremos que la función nos regrese. 
+Declaraciones 'If': Esto nos sirve para definir si una función está cumpliendo ciertas condiciones indicadas. Nos arrojará una repuesta de si cumple o nombrar
+Valores booleanos: son valores binarios, solo hay dos opciones, o 0 o 1, o verdadero o falso. Y sirven para validar son el resultado de validar si una funcion está o no cumpliendo con las condiciones indicadas
